@@ -42,7 +42,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 **2.** Crie uma branch para sua modificação :   (git checkout -b minha-modificacao).
 
-**3.**Realize as alterações desejadas.
+**3.** Realize as alterações desejadas.
 
 **4.** Faça commit das suas mudanças:   (git commit -am 'Adicionando nova funcionalidade').
 
