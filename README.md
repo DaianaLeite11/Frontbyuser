@@ -10,7 +10,6 @@ O Frontbyuser é um projeto desenvolvido para aprimorar habilidades em HTML e CS
 
 ## 📁 Estrutura do Projeto
 
-```plaintext
 ├── assets/      # Imagens e outros recursos estáticos
 ├── css/         # Folhas de estilo CSS
 ├── index.html   # Página principal
